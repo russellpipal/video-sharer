@@ -1,0 +1,11 @@
+{
+  "name": "video-sharer",
+  "version": "1.0.0",
+  "description": "A utility to post and share videos using the Proof API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Russell Pipal",
+  "license": "ISC"
+}
